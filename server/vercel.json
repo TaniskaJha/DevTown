@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "index.js",
+      "use": "@vercel/node",
+      "config": {
+        "args": ["install", "--legacy-peer-deps"]
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "index.js"
+    }
+  ],
+  "dev": {
+    "build": {
+      "config": {
+        "args": ["install", "--legacy-peer-deps"]
+      }
+    }
+  }
+}
