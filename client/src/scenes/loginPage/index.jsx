@@ -20,7 +20,7 @@ const LoginPage = () => {
        textAlign="center"
       >
         <Typography fontWeight="bold" fontSize="32px" color="black">
-          DevNetwork
+          DevTown
         </Typography>
       </Box>
 
@@ -33,11 +33,11 @@ const LoginPage = () => {
       >
         
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }}>
-          You are at DevNetwork, a Social Media website for Developers!
+          Hey you are at DevTown, it's better than B-town!
         </Typography>
         <Form />
         <Typography fontWeight="500" variant="h5" sx={{ mb: "1.5rem" }} textAlign="center">
-          Made by Chaitanya Rai with 💟
+          Made by Taniska Jha with <3
         </Typography>
       </Box>
     </Box>
