@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          DevNetwork
+          DevTown
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
