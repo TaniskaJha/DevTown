@@ -3,8 +3,8 @@
 DevTown is a social media platform designed specifically for developers. It allows developers to connect, share ideas, collaborate on projects, and stay updated on the latest trends in the tech industry. The platform is built using React.js for the front-end, Express.js for the back-end, and MongoDB Atlas for the database.
 Check out the live demo of DevTown: https://devtown.onrender.com/
 
-!MAINPG(./M.png)
-!MAINPG(./LOGIN.png)
+![mainpg](./LOGIN.png)
+![mainpg](./M.png)
 
 
 ## Technologies Used
